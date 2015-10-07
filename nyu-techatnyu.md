@@ -25,6 +25,7 @@
 
 - [Calendar](http://cal.techatnyu.org/)
 - [Job Board](http://jobsatnyu.com/)
+- [Job Fair](http://fair.nyusw.com/)
 - [Startup Week](http://nyusw.com/)
 - [Ship](http://ship.techatnyu.org/)
 - [DemoDays](http://demodays.co/)

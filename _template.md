@@ -16,10 +16,19 @@
 
 - [Github](https://github.com/TechCollabNYC)
 - [Twitter](https://twitter.com/TechCollabNYC/)
+- [Facebook]
+- [Medium]
+- [Tumblr]
+- [Instagram]
+- etc
 
 ### Other marketing sites
 
 - N/A
+- but you
+- would link
+- and list
+- like so
 
 ### Affiliation
 

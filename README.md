@@ -37,7 +37,7 @@ Please read the [Tech Collab Manifesto and FAQ](https://github.com/TechCollabNYC
 
 ## Contributing (for delegates)
 
-Add a markdown file named after your club - e.g., `techatnyu.md`. You can copy and paste format from [_template.md](_template.md)
+Add a markdown file named after your school and club - e.g., `nyu-techatnyu.md`. You can copy and paste format from [_template.md](_template.md)
 
 Format:
 

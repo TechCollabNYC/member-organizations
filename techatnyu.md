@@ -32,3 +32,7 @@
 ### Affiliation
 
 New York University All-Square Club
+
+### Tech Collab Delegates
+
+- Cheryl Wu (tech@NYU Community Lead & Creative Director)

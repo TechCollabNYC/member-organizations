@@ -34,5 +34,5 @@
 
 ### Tech Collab Delegates
 
-- Cheryl Wu (hackNY 2012, also tech@NYU delegate)
-- Emily Pries (hackNY 2015, also ADI delegate)
+- Cheryl Wu (hackNY 2012, also [Tech@NYU](../nyu-techatnyu.md) delegate)
+- Emily Pries (hackNY 2015, also [ADI](../cu-adi.md) delegate)

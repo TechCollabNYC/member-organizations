@@ -32,4 +32,5 @@ Please read the [Tech Collab Manifesto and FAQ](https://github.com/TechCollabNYC
 
 ### Honorary Members
 
-- **hackNY** - Worldwide
+##### **hackNY** 
+- Worldwide

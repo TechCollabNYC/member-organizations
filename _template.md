@@ -26,3 +26,7 @@
 ### Affiliation
 
 College Technology and Entrepreneurship organizations across NYC
+
+### Tech Collab Delegates
+
+- Cheryl Wu (tech@NYU Community Lead & Creative Director)

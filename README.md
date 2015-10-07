@@ -6,34 +6,16 @@ Please read the [Tech Collab Manifesto and FAQ](https://github.com/TechCollabNYC
 
 ### Full Members
 
-##### **ACM**
-- NYU
-- Carlos Guzman
-
-##### **ADI**
-- Columbia
-- Emily Pries and Dan Schlosser
-
-##### **CORE**
-- Columbia
-- Jackie Luo
-
-##### **create@cooper**
-- Cooper Union
-- Andrew Rehayem and Nick Breeser
-
-##### **EIA**
-- NYU Engineering
-- Paul Dariye
-
-##### **tech@NYU**
-- NYU
-- Cheryl Wu
+1. [NYU - **ACM**](nyu-acm.md) `Carlos Guzman`
+2. [CU - **ADI**](cu-adi.md) `Emily Pries` and `Dan Schlosser`
+3. [CU - **CORE**](cu-core.md) `Jackie Luo`
+4. [Cooper - **create@cooper**](cooper-create.md) `Andrew Rehayem` and `Nick Breeser`
+5. [NYU - **EIA**](nyu-eia.md) `Paul Dariye`
+6. [NYU - **tech@NYU**](nyu-techatnyu.md) `Cheryl Wu`
 
 ### Honorary Members
 
-##### **hackNY** 
-- Worldwide
+1. [**hackNY**](hackny.md)
 
 ## Contributing (for delegates)
 
@@ -48,3 +30,4 @@ Format:
 5. relevant social media links
 6. other marketing sites
 7. school affiliation
+8. Tech Collab delegate names and org titles

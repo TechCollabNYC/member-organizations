@@ -1,4 +1,3 @@
-# member-organizations
 A listing of member organizations and a way to keep things up to date
 
 Please read the [Tech Collab Manifesto and FAQ](https://github.com/TechCollabNYC/manifesto).
@@ -27,7 +26,7 @@ Please read the [Tech Collab Manifesto and FAQ](https://github.com/TechCollabNYC
 - NYU Engineering
 - Paul Dariye
 
-#### **tech@NYU**
+##### **tech@NYU**
 - NYU
 - Cheryl Wu
 

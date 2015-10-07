@@ -34,3 +34,16 @@ Please read the [Tech Collab Manifesto and FAQ](https://github.com/TechCollabNYC
 
 ##### **hackNY** 
 - Worldwide
+
+## Contributing (for delegates)
+
+Add a markdown file named after your club - e.g., `techatnyu.md`
+
+Format:
+
+1. name
+2. logo
+3. official website
+4. short description
+5. relevant social media links
+6. school affiliation

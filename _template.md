@@ -6,9 +6,7 @@
 
 ### Main site
 
-[techcollab.nyc](http://techcollab.nyc/)
-
-(Under development)
+[techcollab.nyc](http://techcollab.nyc/) - *Under development*
 
 ### Description
 

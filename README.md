@@ -1,3 +1,5 @@
+![Tech Collab NYC](https://pbs.twimg.com/media/CSGpwaNVEAAomac.png:large)
+
 A listing of member organizations and a way to keep things up to date
 
 Please read the [Tech Collab Manifesto and FAQ](https://github.com/TechCollabNYC/manifesto).
